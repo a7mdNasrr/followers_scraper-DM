@@ -13,7 +13,7 @@ targetUser = 'HamadaE03645116'
 # Define your login credentials
 email = "ahmadmedoan2@gmail.com"
 user = "HamadaE03645116"
-password = "ahmed3389an"
+password = "********"
 
 # Define the URL of the login page and followers page
 login_url = "https://twitter.com/login"
